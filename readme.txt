@@ -1,3 +1,3 @@
 This is a new git project
 
-it is going well
+it is going as planned
